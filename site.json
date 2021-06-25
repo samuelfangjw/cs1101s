@@ -12,6 +12,9 @@
     "*.njk",
     ".git/*"
   ],
+  "style": {
+    "codeTheme": "light"
+  },
   "pages": [
     {
       "src": "index.md",
@@ -20,6 +23,9 @@
     {
       "glob": ["**/index.md", "**/*.+(md|mbd)"]
     }
+  ],
+  "plugins": [
+    "codeBlockCopyButtons"
   ],
   "deploy": {
     "message": "Site Update."
