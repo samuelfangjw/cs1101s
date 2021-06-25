@@ -222,7 +222,7 @@ Similarly, `expression_1 || expression_2`{.js} is equivalent to `expression_1 ? 
     5 % 2 === 0 ? display(1) : display(2);
   ```
 
-  **Note:** the `display` function displays the value passed in as argument.
+  **Note:** the `display`{.js} function displays the value passed in as argument.
   <q-option reason="`display(1)` is not evaluated.">
       1
     </q-option>
