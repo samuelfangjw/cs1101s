@@ -8,13 +8,13 @@
 
 <div class="jumbotron jumbotron-fluid bg-primary text-white">
   <div class="container">
-    <h1 class="display-4 no-index">CS1101S</h1>
-    <p class="lead">A companion site for studio {{ studioGroup }}</p>
+    <h1 class="display-4 no-index">Landing Page Title</h1>
+    <p class="lead">A tagline can go here</p>
   </div>
 </div>
 
 # Heading 1
-Some text some text some text some text some text some text some text. **Some text some text some text some text some text ==some text== some text**. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text. {{ studioGroup }}
+Some text some text some text some text some text some text some text. **Some text some text some text some text some text ==some text== some text**. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
 
 **A block quote:**
 

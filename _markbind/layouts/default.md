@@ -5,11 +5,11 @@
 <header fixed>
   <navbar type="dark">
     <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">Your Logo</a>
-    <li><a href="{{baseUrl}}/contents/topic1.html" class="nav-link">Topic 1</a></li>
-    <li><a href="{{baseUrl}}/contents/topic2.html" class="nav-link">Topic 2</a></li>
-    <dropdown header="Topic 3" class="nav-link">
-      <li><a href="{{baseUrl}}/contents/topic3a.html" class="dropdown-item">Topic 3a</a></li>
-      <li><a href="{{baseUrl}}/contents/topic3b.html" class="dropdown-item">Topic 3b</a></li>
+    <!-- <li><a href="{{baseUrl}}/contents/topic1.html" class="nav-link">Topic 1</a></li> -->
+    <!-- <li><a href="{{baseUrl}}/contents/topic2.html" class="nav-link">Topic 2</a></li> -->
+    <!-- <dropdown header="Topic 3" class="nav-link"> -->
+      <!-- <li><a href="{{baseUrl}}/contents/topic3a.html" class="dropdown-item">Topic 3a</a></li> -->
+      <!-- <li><a href="{{baseUrl}}/contents/topic3b.html" class="dropdown-item">Topic 3b</a></li> -->
     </dropdown>
     <li slot="right">
       <form class="navbar-form">
@@ -26,12 +26,19 @@
     </div>
     <div class="nav-component slim-scroll">
       <site-nav>
-* [Home :house:]({{ baseUrl }}/index.html)
-* [Topic 1]({{baseUrl}}/contents/topic1.html)
-* [Topic 2]({{baseUrl}}/contents/topic2.html)
-* Topic 3 :expanded:
-  * [Topic 3a]({{baseUrl}}/contents/topic3a.html)
-  * [Topic 3b]({{baseUrl}}/contents/topic3b.html)
+* [Home]({{ baseUrl }}/index.html)
+* Week 1
+  * [Elements of Programming]({{baseUrl}}/contents/elementsOfProgramming.html)
+* Week 2
+* Week 3
+* Week 4
+* Week 5
+* Week 6
+* Week 7
+* Week 8
+* Week 9
+* Week 10
+* Week 11
       </site-nav>
     </div>
   </nav>
