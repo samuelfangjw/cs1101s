@@ -22,14 +22,15 @@
 <div id="flex-body">
   <nav id="site-nav" class="fixed-header-padding">
     <div class="site-nav-top">
-      <div class="font-weight-bold mb-2" style="font-size: 1.25rem;">Template</div>
+      <!-- <div class="font-weight-bold mb-2" style="font-size: 1.25rem;">Template</div> -->
     </div>
     <div class="nav-component slim-scroll">
       <site-nav>
 * [Home]({{ baseUrl }}/index.html)
 * Week 1
-  * [Elements of Programming]({{baseUrl}}/contents/elementsOfProgramming.html)
+  * [Elements of Programming]({{ baseUrl }}/contents/elementsOfProgramming.html)
 * Week 2
+  * [Substitution Model]({{ baseUrl }}/contents/substitutionModel.md)
 * Week 3
 * Week 4
 * Week 5
