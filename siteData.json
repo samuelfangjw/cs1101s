@@ -1,0 +1,64 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "README.md",
+      "title": "",
+      "headings": {
+        "cs1101s": "CS1101S",
+        "acknowledgements": "Acknowledgements"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/contributing.md",
+      "title": "",
+      "headings": {
+        "contributing-to-this-site": "Contributing to this site"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/elementsOfProgramming.md",
+      "title": "",
+      "headings": {
+        "elements-of-programming": "Elements of programming",
+        "primitive-values": "Primitive Values",
+        "expressions": "Expressions",
+        "combinations": "Combinations",
+        "statements": "Statements",
+        "constant-declarations": "Constant Declarations",
+        "function-declarations": "Function Declarations",
+        "number-of-parameters": "Number of parameters",
+        "conditional-expressions": "Conditional Expressions",
+        "operators": "Operators",
+        "modulo-operation": "Modulo Operation",
+        "logical-operations": "Logical Operations",
+        "short-circuit-evaluation": "Short circuit evaluation"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "Landing Page",
+      "headings": {
+        "what-s-this-about": "What's this about?",
+        "contributing": "Contributing",
+        "disclaimer": "Disclaimer"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "sample.md",
+      "title": "",
+      "headings": {
+        "heading-1": "Heading 1",
+        "sub-heading-1-1": "Sub Heading 1.1",
+        "sub-heading-1-2": "Sub Heading 1.2",
+        "heading-2": "Heading 2",
+        "heading-3": "Heading 3"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
