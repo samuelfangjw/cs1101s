@@ -1,6 +1,6 @@
 # Substitution Model
 
-The substitution model is model to help us reason about programs in Source 1 and 2.
+The substitution model is a model to help us reason about programs in Source 1 and 2.
 
 In the substitution model, we step through the program line by line and substitute name occurances with their values before evaluating the resulting expressions.
 
