@@ -18,7 +18,7 @@
   "pages": [
     {
       "src": "index.md",
-      "title": "Landing Page"
+      "title": "Home"
     },
     {
       "glob": ["**/index.md", "**/*.+(md|mbd)"]
