@@ -39,6 +39,19 @@
       "headingKeywords": {}
     },
     {
+      "src": "contents/substitutionModel.md",
+      "title": "",
+      "headings": {
+        "substitution-model": "Substitution Model",
+        "function-application": "Function Application",
+        "applicative-order-reduction": "Applicative Order Reduction",
+        "normal-order-reduction": "Normal Order Reduction",
+        "applicative-order-vs-normal-order-reduction": "Applicative Order vs Normal Order reduction",
+        "stepper-tool": "Stepper tool"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "index.md",
       "title": "Home",
       "headings": {
